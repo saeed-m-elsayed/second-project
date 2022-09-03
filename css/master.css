@@ -476,7 +476,7 @@ header nav .form{
     .design .container .phone img{
         width: 150px;
     }
-    .design .container .text{
+    .design .text{
         background-color: var(--transparent-color);
         position: absolute;
         right: 0px;
@@ -490,13 +490,13 @@ header nav .form{
         -ms-transform: translateY(-50%);
         -o-transform: translateY(-50%);
 }
-    .design .container .text h3{
+    .design  .text h3{
         font-weight: normal;
         font-size: 13px;
         margin: 10px 0;
         padding: 5px;
     }
-    .design .container .text p{
+    .design .text p{
         padding: 5px;
         font-size: 9px;
     }
@@ -505,7 +505,7 @@ header nav .form{
     .design .container .phone img{
         width: 350px;
     }
-    .design .container .text{
+    .design  .text{
         background-color: var(--transparent-color);
         position: absolute;
         right: 0px;
@@ -519,12 +519,12 @@ header nav .form{
         -ms-transform: translateY(-50%);
         -o-transform: translateY(-50%);
 }
-    .design .container .text h3{
+    .design  .text h3{
         font-weight: normal;
         font-size: 20px;
         margin: 10px 0;
     }
-    .design .container .text p{
+    .design .text p{
         padding: 5px;
         font-size: 12px;
     }
@@ -821,7 +821,7 @@ header nav .form{
     justify-content: end;
 }
 .skills .testimonials-sec .information .info img{
-    width: 130px;
+    width: 100px;
     padding-bottom: 10px;
     margin-right: 30px;
 }
@@ -1030,6 +1030,7 @@ header nav .form{
         text-align: center;
         align-items: center;
         justify-content: center;
+        margin-top: 20px;
     }
     .skills .testimonials-sec .information .info img{
         margin: 0;
